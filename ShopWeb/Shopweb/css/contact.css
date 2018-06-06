@@ -1,0 +1,6 @@
+﻿@import url(../fonts/Vazir/vazir.css);
+body {
+    direction:rtl;
+    text-align:right;
+    font-family:Vazir;
+}

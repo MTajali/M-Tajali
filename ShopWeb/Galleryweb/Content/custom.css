@@ -1,0 +1,35 @@
+﻿@import url(../fonts/Vazir/vazir.css);
+#top-page  {
+    direction:rtl;
+    text-align:right;
+    margin-top:-60px;
+    font-family: Vazir;
+}
+.navbar-brand img{
+    height:40px;
+    margin-right:-60px;
+    margin-top:-10px;
+    
+}
+.nav-item {
+    margin:5px;
+}
+
+.img-fluid{
+    width:900px;
+    height:350px;
+}
+.card-img-top {
+    height: 146px;
+}
+body.contact {
+    direction: rtl;
+    text-align: right;
+    font-family: Vazir;
+    margin-top:-60px;
+    margin-bottom:30px;
+
+}
+body.contact {
+    margin-bottom:-40px;
+}
